@@ -1,0 +1,13 @@
+# > bilibili
+
+USER-AGENT,,bili*,HongKong
+DOMAIN-SUFFIX,hpplay.cn, HongKong
+DOMAIN-SUFFIX,acg.tv,HongKong
+DOMAIN-SUFFIX,acgvideo.com ,HongKong
+DOMAIN-SUFFIX,b23.tv ,HongKong
+DOMAIN-SUFFIX,biliapi.com ,HongKong
+DOMAIN-SUFFIX,bilibili.com ,HongKong
+DOMAIN-SUFFIX,biligame.com ,HongKong
+DOMAIN-SUFFIX,biligame.net ,HongKong
+DOMAIN-SUFFIX,hdslb.com ,HongKong
+DOMAIN-SUFFIX,im9.com ,HongKong
